@@ -11,7 +11,7 @@ Commands:
  - /heal (Resets your health to max)
  - /kill (Automatically kills you)
  
- - /item [category] (Gives you entire set of items from specified category)
+ - /item {category} (Gives you entire set of items from specified category)
     Example: /item weapons (Adds all weapons from 'weapons.js' into your inventory.
 
 
