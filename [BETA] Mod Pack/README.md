@@ -5,7 +5,15 @@ The Mod Pack will include the following:
  - Custom Items
  - More Weapons
 
-nd many more modifications, like custom ores and recipes to craft special blocks and items.
+And many more modifications, like custom ores and recipes to craft special blocks and items.
+
+Commands:
+ - /heal (Resets your health to max)
+ - /kill (Automatically kills you)
+ 
+ - /item [category] (Gives you entire set of items from specified category)
+    Example: /item weapons (Adds all weapons from 'weapons.js' into your inventory.
+
 
 
 
