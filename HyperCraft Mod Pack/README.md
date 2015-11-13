@@ -1,3 +1,4 @@
+#HyperCraft ModPack
 This directory will include many mods that branch out from the 'Master-Mod' using same recipes and commands, it will be an entire new experience of gameplay for MCPE.
 
 The Mod Pack will include the following:
