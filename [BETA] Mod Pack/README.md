@@ -12,7 +12,7 @@ Commands:
  - /kill (Automatically kills you)
  
  - /item {category} (Gives you entire set of items from specified category)
-    Example: /item weapons (Adds all weapons from 'weapons.js' into your inventory.
+ - Example: /item weapons (Adds all weapons from 'weapons.js' into your inventory.
 
 
 
