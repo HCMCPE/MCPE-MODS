@@ -14,7 +14,7 @@ function procCmd(command) {
     }
 }
 
-// Not sure if this works, just trying another way of setting commands.
+// Not sure if this works, just trying another way of setting commands
 
 function proCmd(command) {
     var p = command.split(" ");
